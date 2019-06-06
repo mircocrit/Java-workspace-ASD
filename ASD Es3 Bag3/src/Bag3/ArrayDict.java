@@ -65,7 +65,7 @@ public class ArrayDict<T> implements Dictionary<T> {
 		}
 
 	}
-
+/////////////////////////////////////////////////////////////
 	@Override
 	public void delete(Comparable k) {
 		int j;
